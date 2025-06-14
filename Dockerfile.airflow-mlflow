@@ -1,0 +1,10 @@
+FROM apache/airflow:2.5.1
+
+# Switch to the airflow user
+USER airflow
+
+# Install additional Python packages
+RUN pip install --no-cache-dir \
+    mlflow \
+    scikit-learn \
+    pandas
