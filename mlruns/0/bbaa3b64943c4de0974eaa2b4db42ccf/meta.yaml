@@ -1,0 +1,15 @@
+artifact_uri: file:///opt/airflow/mlruns/0/bbaa3b64943c4de0974eaa2b4db42ccf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbaa3b64943c4de0974eaa2b4db42ccf
+run_name: persistent-duck-607
+run_uuid: bbaa3b64943c4de0974eaa2b4db42ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876727047
+status: 1
+tags: []
+user_id: airflow
