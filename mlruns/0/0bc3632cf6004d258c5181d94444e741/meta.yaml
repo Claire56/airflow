@@ -1,0 +1,15 @@
+artifact_uri: file:///opt/airflow/mlruns/0/0bc3632cf6004d258c5181d94444e741/artifacts
+end_time: 1749921999792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bc3632cf6004d258c5181d94444e741
+run_name: melodic-turtle-121
+run_uuid: 0bc3632cf6004d258c5181d94444e741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749921994857
+status: 3
+tags: []
+user_id: airflow
